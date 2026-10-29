@@ -1,7 +1,7 @@
 import requests
 
 # 국가법령정보 공동 활용(Open API) 승인키 (OC)
-API_KEY = "발급받은_법제처_인증키"
+API_KEY = "FST0692"
 query_term = "산업안전보건법"
 
 # 법제처 Open API URL
